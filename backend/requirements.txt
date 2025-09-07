@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+redis
+pandas
+numpy
+ib-insync
+yfinance
+websockets
+pydantic
+python-multipart
+pytest
+black
+flake8
+python-dotenv
+schedule

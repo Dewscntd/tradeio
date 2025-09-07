@@ -1,0 +1,22 @@
+{
+  "name": "trading-bot-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mui/material": "^5.0.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "@mui/icons-material": "^5.0.0",
+    "axios": "^1.6.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-chartjs-2": "^5.0.0",
+    "chart.js": "^4.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/node": "^18.0.0"
+  }
+}
